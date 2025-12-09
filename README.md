@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Python, Node.js / JavaScript / TypeScript, Java (Maven/Gradle), Flask, Express.js, Spring Boot, Docker, Kubernetes / K8s
+- **Detected Technologies:** Docker, Dockerfile, HTML, Java, JavaScript, PHP, Python
 - **GitHub Topics:** None
 
 ---
